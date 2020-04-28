@@ -26,6 +26,7 @@ type Table struct {
 	Cacher        Cacher
 	StoreEngine   string
 	Charset       string
+	Collate       string
 	Comment       string
 }
 
