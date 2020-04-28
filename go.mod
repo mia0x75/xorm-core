@@ -1,4 +1,4 @@
-module xorm.io/core
+module github.com/mia0x75/xorm-core
 
 require (
 	github.com/go-sql-driver/mysql v1.4.1
